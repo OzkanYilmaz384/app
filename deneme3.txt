@@ -1,0 +1,11 @@
+burada değişiklik var
+yei şeyler ekledim
+
+^X
+
+
+^X Exit
+		
+git --X
+
+
